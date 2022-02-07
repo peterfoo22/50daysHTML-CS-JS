@@ -1,6 +1,6 @@
 const panels = document.querySelectorAll('.panel')
 
-//testing out
+//testing this out
 
 panels.forEach(panel => {
     panel.addEventListener('click', () => {
