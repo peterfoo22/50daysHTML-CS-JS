@@ -1,6 +1,6 @@
 const panels = document.querySelectorAll('.panel')
 
-//testing this out to add too
+//wanted to add comment
 
 panels.forEach(panel => {
     panel.addEventListener('click', () => {
